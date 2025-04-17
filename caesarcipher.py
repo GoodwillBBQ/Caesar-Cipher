@@ -91,8 +91,7 @@ if __name__ == '__main__':
         encrypt_message()
     elif mode == 'd':
         decrpyt_message()
-        
-        
+    print('Exiting program.')
         
         
         
