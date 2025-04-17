@@ -92,6 +92,6 @@ if __name__ == '__main__':
     elif mode == 'd':
         decrpyt_message()
     print('Exiting program.')
-        
+    print('Post staging, but before commit.')
         
         
